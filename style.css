@@ -1,0 +1,28 @@
+body{
+    background-color:black;
+    border: 5px solid goldenrod;
+    border-style: dashed;
+}
+
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 2%;
+}
+
+.image{
+    border: 5px solid goldenrod;
+    border-style: double;
+
+}
+
+.heading{
+    color:white;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    border-color: black;
+}
+
+
